@@ -1,7 +1,8 @@
 # Coding Projects
 As a Computer Science student I want to document all my experience!                                                                                                  
 I love coding and so several of these projects are done in my own spare time,                                                             
-they will not be simple "write code to show I can make a variable" type stuff and most will serve an explicit purpose (develop understanding of html for example)!
+they will not be simple "write code to show I can make a variable" type stuff,
+most projects will serve an explicit purpose (develop understanding of html for example)!
 
 Projects in Uni Yr 1:
 1. FibbonacciNim game (Sem1, Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins 
