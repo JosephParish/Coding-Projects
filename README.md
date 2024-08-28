@@ -9,5 +9,5 @@ Projects in Uni Yr 1:
 2. Planetary model (Sem1, Object Oriented Programing) - A OOP Java planetary model
 3. 
 4. 
-5. Make a primitive Blockchain (Done In Private, implementing and understanding Blockchain) - input transactions into a block then a pre set private key signs off the transactions and is checked with the pre set public key. blocks are stored in an Arraylist and have both their own and the previous hash value also requiring the current hash value having 20 0's at the begining.
+5. Make a primitive Blockchain (Done In Private, implementing and understanding Blockchain) - input transactions into a block then a pre set private key signs off the transactions and is checked with the pre set public key. blocks are stored in an Arraylist and have both their own and the previous hash value also requiring the current hash value having 20 0's at the begining.                                                                                                            
 6. Make a CPU (Done In Private, CPU archetecture, Assembly) - 
