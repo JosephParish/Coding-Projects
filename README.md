@@ -1,4 +1,4 @@
-# CS-student-Challenges_Java
+# Year-1-Coding-Projects
 As a CS student I want to do some self guided challenges to keep my skills sharp!                                                                                                  
 I love coding and so these challenges will be all the programming projects done until graduation,                                                             
 they will not be simple "write code to show I can make a variable" type stuff!
