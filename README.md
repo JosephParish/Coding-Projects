@@ -1,7 +1,7 @@
 # Coding Projects
 As a Computer Science student I want to document all my experience!                                                                                                  
 I love coding and so several of these projects are done in my own spare time,                                                             
-they will not be simple "write code to show I can make a variable" type stuff,
+they will not be simple "write code to show I can make a variable" type stuff,                                      
 most projects will serve an explicit purpose (develop understanding of html for example)!
 
 Projects in Uni Yr 1:
