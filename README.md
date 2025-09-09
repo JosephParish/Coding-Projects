@@ -7,11 +7,15 @@ most projects will serve an explicit purpose (develop understanding of html for 
 Projects in Uni Yr 1:
 1. FibbonacciNim game (Sem1, Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins 
 2. Planetary model (Sem1, Object Oriented Programing) - A OOP Java planetary model
-3. Library system (Sem2, OOP) - A OOP Java book storage/organisation system
-4. Parcel delivery system (Sem2, Working on a pre-exsisting code base and OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
-5. Make a primitive Blockchain (Done In Private, implementing and understanding Blockchain) - Input transactions into a block then a pre set private key signs off the transactions and is checked with the pre set public key. Blocks are stored in an Arraylist and have both their own and the previous hash value also requiring the current hash value having 20 0's at the begining.                                   
-6. Make a CPU (Done In Private, CPU archetecture, Assembly) - 
+3. Library system (Sem1, OOP) - A OOP Java book storage/organisation system
+
+4. Machine Learning for Wine Analysis (Sem2, Python, Jupyter, Pandas, ML) - Created a ML model to predict where a wine came from based on its compositional data
+5. Parcel delivery system (Sem2, Working on a pre-exsisting code base and OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
+
+6. Make a primitive Blockchain (Done In Private, implementing and understanding Blockchain) - Create a Primitive Blockchain data structure to understand the basis for smart contracts future developments.                               
+7. Make a CPU (Done In Private, CPU archetecture, Assembly) - 
 
 Projects in Uni Yr 2:
-1. Repository for Java DSA (Done In Private, DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
-2. 2D Game in a team (Sem2, OOP, Teamwork, Java) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
+1. Relational Database on MySQL (Sem1, SQL, Relational Databases) - Created a queryable SQL database for a described database that I normalised.
+2. 2D Game in a team (Sem1, OOP, Teamwork, Java) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
+3. Repository for Java DSA (Done In Private, DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
