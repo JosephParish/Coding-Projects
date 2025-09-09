@@ -4,7 +4,7 @@ I love coding and so several of these projects are done in my own spare time,
 they will not be simple "write code to show I can make a variable" type stuff,                                      
 most projects will serve an explicit purpose (develop understanding of html for example)!
 
-Projects in Uni Yr 1:
+##Projects in Uni Yr 1:
 
 Semester 1:
 
@@ -22,7 +22,7 @@ Personal:
   6. Primitive Blockchain (implementing and understanding Blockchain) - Create a Primitive Blockchain data structure to understand the basis for smart contracts future developments.                               
   7. Design CPU (CPU archetecture, Assembly) - Designed a simple 8-Bit CPU that could calculate fibbonacci numbers using assembly code.
 
-Projects in Uni Yr 2:
+##Projects in Uni Yr 2:
 
 Semester 1:
 
