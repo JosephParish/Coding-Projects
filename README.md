@@ -20,6 +20,6 @@ Projects in Uni Yr 2:
 2. 2D Game in a team (Sem1, OOP, Teamwork, Java) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
 
 3. CRUD web server and client (Sem2, Web, REST) - Made a Server for a client to Create, Retrieve, Update and Delete data (on mountains and their height, location, etc)
-4. 
+4. NLP for grammar checking (Sem2, AI, Declaritive Programing) - Made a NLP that could detect if a sentence didnt make sense or was grammatically inncorrect by looking at its composition.
 
 5. Repository for Java DSA (Done In Private, DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
