@@ -14,4 +14,4 @@ Projects in Uni Yr 1:
 
 Projects in Uni Yr 2:
 1. Repository for Java DSA (Done In Private, DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
-2. 2D Game in a team (Sem2, OOP, Teamwork, Java)
+2. 2D Game in a team (Sem2, OOP, Teamwork, Java) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
