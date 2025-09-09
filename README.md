@@ -13,4 +13,5 @@ Projects in Uni Yr 1:
 6. Make a CPU (Done In Private, CPU archetecture, Assembly) - 
 
 Projects in Uni Yr 2:
-1. 
+1. Repository for Java DSA (Done In Private, DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
+2. 2D Game in a team (Sem2, OOP, Teamwork, Java)
