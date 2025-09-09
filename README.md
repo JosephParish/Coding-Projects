@@ -13,7 +13,7 @@ Projects in Uni Yr 1:
 5. Parcel delivery system (Sem2, Working on a pre-exsisting code base and OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
 
 6. Make a primitive Blockchain (Done In Private, implementing and understanding Blockchain) - Create a Primitive Blockchain data structure to understand the basis for smart contracts future developments.                               
-7. Make a CPU (Done In Private, CPU archetecture, Assembly) - 
+7. Make a CPU (Done In Private, CPU archetecture, Assembly) - Designed a simple 8-Bit CPU that could calculate fibbonacci numbers using assembly code.
 
 Projects in Uni Yr 2:
 1. Relational Database on MySQL (Sem1, SQL, Relational Databases) - Created a queryable SQL database for a described database that I normalised.
