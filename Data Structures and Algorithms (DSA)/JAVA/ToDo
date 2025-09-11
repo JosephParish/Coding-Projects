@@ -1,0 +1,74 @@
+Algorithms ToDo:
+- Big O Notation
+- specifiy best usage for code (small datasets, little variance in data, etc)
+- format all code to be exactly the same (spacing, {}, wording/comments, etc)
+
+Go thorugh:
+  - IntroSort
+  - Tim Sort
+  - BucketSort
+  - RadixSort
+  - PigeonholeSort
+  - TopilogicalSort
+  - BogoSort
+  
+  - BFS
+  - DFS
+  - UCS
+  - GS
+  - HILL
+  - A*
+  - MINMAX
+
+  - QUEUE (need to do Circular, Priority and Deque)
+  - STACK
+  - NODE
+  - TREE
+  - BLOCKCHAIN
+  - HEAP
+  - LINKEDLIST (need to do Circular and Deque)
+
+Further Improvements:
+ - BLOCKCHAIN
+
+  SORTS:
+
+  SEARCHES:
+    - TernarySearch
+    - ExponentialSearch
+
+    - SentinelLinearSearch
+    - MetaBinarySearch | One-SidedBinarySearch
+    - JumpSearch
+    - InterpolationSearch
+    - FibonacciSearch
+    - UbiquitousBinarySearch
+
+  -	Bellman-Ford Algorithm
+  -	Floyd-Warshall Algorithm
+  -	Prim’s Algorithm
+  -	Kruskal’s Algorithm
+
+  - median - finds median in an unsorted array/list
+  - heapify - turns an array into a heap
+
+DATA STRUCTURES:
+  -	Adjacency Matrix
+  -	Adjacency List
+  -	Edge List
+  -	Weighted Graphs
+  -	Directed / Undirected Graphs
+  - Hash Table
+  - Hash Set
+
+  - AVL Tree 
+  -	Red-Black Tree
+  -	Segment Tree
+  -	Fenwick Tree (Binary Indexed Tree)
+  -	Trie (Prefix Tree)
+  -	B-Tree / B+ Tree
+  -	Disjoint Set (Union-Find)
+  -	Bloom Filter
+  -	Suffix Tree / Suffix Array
+  -	LRU Cache
+  -	Skip List
