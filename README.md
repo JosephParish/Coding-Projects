@@ -27,7 +27,7 @@ Personal:
 Semester 1:
 
   1. Relational Database on MySQL (SQL, Relational Databases) - Created a queryable SQL database for a described database that I normalised.
-  2. 2D Game in a team (Teamwork, Java, OOP) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
+  2. 2D Game in a team (SEPERATE REPOSITORY)(Teamwork, Java, OOP) - Working in a team of 8, Planning, Comunicating and meating deadlines whilst using github to collaborate. We did extremely well and got 80%+ on this coursework.
 
 Semester 2:
 
@@ -36,4 +36,4 @@ Semester 2:
 
 Personal:
 
-  5. Repository for Java DSA (DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
+  5. Java DSA (SEPARATE REPOSITORY)(DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
