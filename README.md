@@ -10,12 +10,12 @@ Semester 1:
 
   1. FibbonacciNim game (Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins 
   2. Planetary model (OOP) - A OOP Java planetary model
-  3. Library system (OOP) - A OOP Java book storage/organisation system
 
 Semester 2:
 
-  4. Machine Learning for Wine Analysis (Python, Jupyter, Pandas, ML) - Created a ML model to predict where a wine came from based on its compositional data
-  5. Parcel delivery system (pre-exsisting code base, OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
+  3. Library system (OOP) - A OOP Java book storage/organisation system
+  4. Parcel delivery system (pre-exsisting code base, OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
+  5. Machine Learning for Wine Analysis (Python, Jupyter, Pandas, ML) - Created a ML model to predict where a wine came from based on its compositional data
 
 Personal:
 
