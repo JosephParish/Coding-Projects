@@ -36,4 +36,4 @@ Semester 2:
 
 Personal:
 
-  5. Java DSA (DSA) - Create Data Structures and Algorithms from search to sort to graphs, all sorts of algorithms too. I try to contribute to this every day to practice my ability and mindset.
+  5. DSA (DSA) - Create Data Structures and Algorithms. I try to contribute to this every day. This also helps me learn new languages too (when I get to it).
