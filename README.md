@@ -36,4 +36,4 @@ Semester 2:
 
 Personal:
 
-  5. DSA (DSA) - Create Data Structures and Algorithms. I try to contribute to this every day. This also helps me learn new languages too (when I get to it).
+  5. Data Structures and Algorithms (DSA) - Create Data Structures and Algorithms. I try to contribute to this every day. This also helps me learn new languages too (when I get to it).
