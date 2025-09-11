@@ -87,16 +87,6 @@ public class MountainConnector {
      * @param id        The ID of the mountain (optional).
      * @return ResponseEntity with a list of matching mountains.
      */
-    /**
-     * Searches for mountains that match the given parameters.
-     *
-     * @param name      The name of the mountain to search for (optional).
-     * @param continent The continent the mountain is located in (optional).
-     * @param country   The country the mountain is located in (optional).
-     * @param height    The minimum height of the mountain (optional).
-     * @param id        The ID of the mountain (optional).
-     * @return ResponseEntity with a list of matching mountains.
-     */
     @GetMapping(value = {"/get"}, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<List<Mountain>> get(
             @RequestParam(required = false) final String name,
@@ -206,4 +196,5 @@ public class MountainConnector {
         }
         return true;
     }
+
 }
