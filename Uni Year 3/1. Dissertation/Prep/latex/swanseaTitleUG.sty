@@ -1,0 +1,104 @@
+\ProvidesPackage{swanseaTitleUG}[2022/05/22 v.01 Title page for CS UG dissertations]
+\RequirePackage{graphicx}
+%
+% Adjusts printing area on paper. Please, do not play with these settings.
+\usepackage[a4paper,margin=25mm,bottom=40mm]{geometry}
+%
+\newcommand*{\project}[1]{\gdef\@project{#1}}
+\newcommand*{\@project}{Project Dissertation}
+\newcommand*{\studentid}[1]{\gdef\@studentid{#1}}
+\newcommand*{\@studentid}{\texttt{\string\studentid} Currently
+not set. Please fix this.}
+%
+\newcommand{\rowdots}{\hspace{3.35mm}............................................................}
+
+\ProcessOptions \relax
+%
+\renewcommand*{\maketitle}{%
+  \begin{titlepage}
+    \centering
+    \vspace{12mm}
+    
+    {\huge \bfseries \@title}
+
+    \vspace{12mm}
+
+    {\Large \@author}
+
+    \@studentid\\[2ex]
+
+    {\large \@project}
+
+    \vspace{22mm}
+     
+    \includegraphics[width=0.6\textwidth]{img/swansea.png}
+
+    \vspace{20mm}
+    Department of Computer Science
+    
+    Adran Gyfrifiadureg
+
+    \vspace{5mm}
+    \today
+    \clearpage
+  \end{titlepage}
+}
+
+\newcommand{\studentdeclarations}{%
+  %\raggedright
+  {\Huge \bfseries Declaration}
+
+  \vspace{15mm}
+  \noindent{\Large \bfseries Statement 1}
+
+  \vspace{5mm}
+  \noindent This work has not been previously accepted in substance for any
+  degree and is not being concurrently submitted in candidature for
+  any degree.
+
+  \vspace{7mm}
+  \begin{tabular}{ll}
+    Signed & \rowdots \hspace{5mm} \@author{} (\@studentid)\\[5mm]
+    Date & \rowdots
+  \end{tabular}
+
+  \vspace{15mm}
+  \noindent{\Large \bfseries Statement 2}
+
+  \vspace{5mm}
+  \noindent This thesis is the result of my own investigations, except
+  where otherwise stated.  Other sources are acknowledged by citations
+  giving explicit references.  A bibliography is appended.
+
+  \vspace{7mm}
+  \begin{tabular}{ll}
+    Signed & \rowdots \hspace{5mm} \@author{} (\@studentid)\\[5mm]
+    Date & \rowdots
+  \end{tabular}
+  
+  \vspace{15mm}
+  \noindent{\Large \bfseries Statement 3}
+
+  \vspace{5mm}
+  \noindent The University’s ethical procedures have been followed
+  and, where appropriate, ethical approval has been granted.
+
+  \vspace{7mm}
+  \begin{tabular}{ll}
+    Signed & \rowdots \hspace{5mm} \@author{} (\@studentid)\\[5mm]
+    Date & \rowdots
+  \end{tabular}
+  \clearpage
+}
+
+\newenvironment{frontmatterparagraph}[1]{
+  \begin{center}
+    \textbf{\Large #1}
+  \end{center}\vspace{2ex}
+  \begin{quotation}
+  }{
+  \end{quotation}
+  \clearpage
+}
+
+\endinput
