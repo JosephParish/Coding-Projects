@@ -42,7 +42,11 @@ Personal:
 
 Semester 1:
 
+  1. Dissertation "An AI Tool for Explainable AI" - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage)
+
 Semester 2:
+
+
 
 Personal:
 
