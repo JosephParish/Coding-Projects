@@ -8,14 +8,14 @@ they will not be too simple and most projects will serve an explicit purpose (de
 
 Semester 1:
 
-  1. FibbonacciNim game (Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins 
-  2. Planetary model (OOP) - A OOP Java planetary model
+  1. FibbonacciNim game (Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins.
+  2. Planetary model (OOP) - A OOP Java planetary model.
 
 Semester 2:
 
-  3. Library system (OOP) - A OOP Java book storage/organisation system
+  3. Library system (OOP) - A OOP Java book storage/organisation system.
   4. Parcel delivery system (pre-exsisting code base, OOP) - Organising parcels on a network and managing their delivery on a pre-exsisting (and incomplete) code base.
-  5. Machine Learning for Wine Analysis (Python, Jupyter, Pandas, ML) - Created a ML model to predict where a wine came from based on its compositional data
+  5. Machine Learning for Wine Analysis (Python, Jupyter, Pandas, ML) - Created a ML model to predict where a wine came from based on its compositional data.
 
 Personal:
 
@@ -31,7 +31,7 @@ Semester 1:
 
 Semester 2:
 
-  3. CRUD web server and client (Web, REST) - Made a Server for a client to Create, Retrieve, Update and Delete data (on mountains and their height, location, etc)
+  3. CRUD web server and client (Web, REST) - Made a Server for a client to Create, Retrieve, Update and Delete data (on mountains and their height, location, etc).
   4. NLP for grammar checking (AI, Declaritive Programing) - Made a NLP that could detect if a sentence didnt make sense or was grammatically inncorrect by looking at its composition.
 
 Personal:
@@ -42,7 +42,7 @@ Personal:
 
 Semester 1:
 
-  1. Dissertation "An AI Tool for Explainable AI" - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage)
+  1. Dissertation "An AI Tool for Explainable AI" (AI, ML) - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage).
 
 Semester 2:
 
@@ -50,4 +50,5 @@ Semester 2:
 
 Personal:
 
-  5. Docker and Kubernetes course - installed, comleted demos and understood principals/architecture
+  5. Docker and Kubernetes course (Docker, Kubernetes) - Installed, comleted demos and understood principals/architecture.
+  6. Natural Language Generation web app (NLG, Fullstack Development) - Create a web app that generates text for a specific purpose, front/back end and deployed using Docker/kubernetes.
