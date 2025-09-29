@@ -52,4 +52,3 @@ Personal:
 
   5. Docker and Kubernetes course (Docker, Kubernetes) - Installed, comleted demos and understood principals/architecture.
   6. Retrieval-Augmented Generation web app (NLG, RAG, Fullstack Development) - Create a web app that generates text based off of a knowledge base provided, front/back end and deployed using Docker/kubernetes.
-
