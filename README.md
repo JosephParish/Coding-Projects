@@ -11,7 +11,6 @@ Semester 1:
   1. FibbonacciNim game (Java basics) - A simple Java game where players take coins from piles and the person to take the last coin wins.
   2. Planetary model (OOP) - A OOP Java planetary model.
 
-
 Semester 2:
 
   3. Library system (OOP) - A OOP Java book storage/organisation system.
