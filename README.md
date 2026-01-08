@@ -42,10 +42,12 @@ Personal:
 
 Semester 1:
 
-  1. Dissertation "An AI Tool for Explainable AI" (AI, ML) - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage).
+  1. Full Website using a Framework (Laravel, REST, Web, Relational Databases, HTML/CSS/JS, AJAX) - Created a webiste using Laravel that has an array of features: AJAX comments, Authorisation Layers, API utilisation, CRUD on a database, User friendly UI, ability to post PDFs/Images.
+  2. Object Recognition Report using Deep Learning (ML/DL) - Investigate optimal Neural Networks and ML approaches to object recognition evaluating the outcome.
 
 Semester 2:
 
+  5. Dissertation "An AI Tool for Explainable AI" (AI, ML) - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage).
 
 
 Personal:
