@@ -1,0 +1,6 @@
+ticket_id,customer_id,num_tickets,avg_resolution_time
+201,1,2,48
+202,2,0,0
+203,3,1,24
+204,4,3,72
+205,5,1,36
