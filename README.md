@@ -47,8 +47,8 @@ Semester 1:
 
 Semester 2:
 
-  5. Dissertation "An AI Tool for Explainable AI" (AI, ML) - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage).
-
+  3. FSM of an Embedded System (Matlab, Simulink) - Model the inner workings of a vending machine as a way to proof the fundementals of Embedded System Design
+  4. Dissertation "An AI Tool for Explainable AI" (AI, ML) - Create a tool to help specialists/scientists uses Machine learning without prior knowledge with AI assistance (for data preparation, ML pipline selection and usage).
 
 Personal:
 
